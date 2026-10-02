@@ -427,18 +427,27 @@ FUTURE
 
 ---
 
-# 📫 LET'S CONNECT
+## 🌐 LET’S CONNECT
 
-<div align="center">
+<p align="center">
 
-🤝 **Collaboration**  
-💡 **New Ideas**  
-🔬 **Research**  
-🚀 **Innovation**  
-💻 **Technology**  
-🌱 **Sustainable Solutions**
+<a href="https://www.linkedin.com/in/md-ratul-islam-751353384/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-</div>
+<a href="https://www.instagram.com/hi_md_ratul/">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/share/1E36XNn5vo/">
+  <img src="https://img.shields.io/badge/Facebook-Connect%20with%20me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Research • Technology • Innovation • Collaboration</i>
+</p>
 
 ---
 
