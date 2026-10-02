@@ -1,14 +1,16 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=RATUL%20LABS&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Research%20%E2%80%A2%20Technology%20%E2%80%A2%20Innovation&descAlignY=58&descSize=18" width="100%"/>
+
 # 👋 Hi, I'm Ratul
 
-### 🧪 RATUL LABS
+### 🧪 Research • Technology • Innovation
 
-**Research • Technology • Innovation**
+> **Turning curiosity into knowledge,  
+> ideas into experiments,  
+> and experiments into solutions.**
 
-*Exploring ideas. Building solutions. Creating impact.*
-
-🇧🇩 **Bangladesh**
+🇧🇩 **Bangladesh** • 🎓 **ITM Student** • 🔬 **Research Explorer** • 🚀 **Innovation Builder**
 
 </div>
 
@@ -16,75 +18,108 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **Information Technology & Management (ITM)** student with a strong interest in technology, innovation, research, and practical problem solving.
+I'm an **Information Technology & Management (ITM)** student with a growing interest in technology, research, innovation, and real-world problem solving.
 
-I enjoy turning ideas into projects and exploring how technology can create meaningful solutions for real-world problems.
+I enjoy exploring ideas, learning new technologies, building practical projects, and understanding how technology can create meaningful solutions.
 
 - 🎓 Information Technology & Management Student
 - 💻 Technology & IT Enthusiast
-- 🔬 Interested in Research & Innovation
-- 🚀 Exploring Software & Digital Solutions
-- 💡 Interested in Entrepreneurship
-- 🌱 Always learning something new
+- 🔬 Research & Innovation Explorer
+- 🚀 Digital Solution Builder
+- 🌱 Continuous Learner
+- 💡 Interested in Technology & Entrepreneurship
 
 ---
 
 ## 🧭 My Technology Journey
 
+<div align="center">
+
 ```text
-                    🧠 LEARN
-                       │
-                       ▼
-                   🔎 EXPLORE
-                       │
-                       ▼
-                    🛠️ BUILD
-                       │
-                       ▼
-                 🧪 EXPERIMENT
-                       │
-                       ▼
-                  📈 IMPROVE
-                       │
-                       ▼
-                  🚀 INNOVATE
+       🧠 LEARN
+          │
+          ▼
+       🔎 EXPLORE
+          │
+          ▼
+       🛠️ BUILD
+          │
+          ▼
+     🧪 EXPERIMENT
+          │
+          ▼
+      📈 IMPROVE
+          │
+          ▼
+      🚀 INNOVATE
 ```
 
-I'm currently building my foundation in technology while exploring different areas of IT, software, databases, networking, and emerging technologies.
+**Learn → Explore → Build → Experiment → Improve → Innovate**
+
+</div>
+
+I'm currently building my technical foundation while exploring software, databases, networking, information systems, artificial intelligence, and emerging technologies.
 
 ---
 
-## 🚀 What I'm Working On
+# 🧪 LAB EXPERIMENTS
 
-### 🌱 Nobayon
+> **Ideas enter the lab. Experiments turn them into possibilities.**
 
-**Smart Refill Ecosystem for a Sustainable Bangladesh**
+## 🧪 EXP-001 — NOBAYON
 
-An innovative refill ecosystem designed to reduce single-use plastic through smart refill stations, reusable containers, QR-based systems, and convenient refill services.
+### 🌱 Smart Refill Ecosystem for a Sustainable Bangladesh
 
-**Exploring:**
+An innovative refill ecosystem designed to reduce single-use plastic through smart refill stations, reusable containers, QR-based systems, multi-brand participation, and convenient refill services.
 
-`IoT` • `QR Systems` • `Sustainability` • `Mobile Applications` • `Digital Business`
+**Research / Exploration**
+
+`SUSTAINABILITY` `IoT` `QR SYSTEMS` `MOBILE APP` `DIGITAL BUSINESS`
+
+**Status:** 🟢 **ACTIVE CONCEPT**
 
 ---
 
-### 🎯 PassionPath
+## 🧪 EXP-002 — PASSIONPATH
 
-**From Self-Discovery to Career Readiness**
+### 🎯 From Self-Discovery to Career Readiness
 
 A concept focused on helping students understand their interests, explore career paths, and develop practical skills through assessments, projects, and mentorship.
 
-**Exploring:**
+**Research / Exploration**
 
-`Career Technology` • `Student Development` • `Assessment` • `Mentorship`
+`EDTECH` `ASSESSMENT` `CAREER TECHNOLOGY` `MENTORSHIP`
+
+**Status:** 🟡 **CONCEPT DEVELOPMENT**
 
 ---
 
-## 🧠 Currently Exploring
+# 🔬 RESEARCH RADAR
 
-| Area | Focus |
+<div align="center">
+
+| 🔬 Research Area | 🌱 Interest |
+|:---:|:---:|
+| 🤖 Artificial Intelligence | Exploring |
+| 🌐 Information Systems | Exploring |
+| 🌱 Sustainable Technology | High Interest |
+| 📊 Data & Decision Making | Exploring |
+| 📱 Digital Solutions | High Interest |
+| 🌐 Networking & Infrastructure | Exploring |
+| 🎓 Educational Technology | Exploring |
+| 🚀 Technology & Innovation | High Interest |
+
+</div>
+
+> My research interest is centered around understanding **how technology can transform real-world problems into practical solutions.**
+
+---
+
+# 🧠 CURRENTLY EXPLORING
+
+| Area | Current Focus |
 |---|---|
-| 💻 Programming | Building fundamentals |
+| 💻 Programming | Building Fundamentals |
 | 🗄️ Database | MySQL & Database Systems |
 | 🌐 Web | Web Technologies |
 | 🔧 Version Control | Git & GitHub |
@@ -95,39 +130,79 @@ A concept focused on helping students understand their interests, explore career
 
 ---
 
-## 🛠️ Skills & Technologies
+# 💻 TECHNOLOGY STACK
 
-### 💻 Programming & Development
+### Languages & Development
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Database
+</div>
+
+### Database
+
+<div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Tools & Platforms
+</div>
+
+### Tools & Platforms
+
+<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-Using-181717?style=for-the-badge&logo=github&logoColor=white)
 
-> These represent technologies I'm currently learning, exploring, or using in projects. I'm continuously working to improve my skills.
+</div>
+
+> **Learning status matters more than labels.**  
+> These technologies represent tools I'm learning, exploring, or using while building my technical foundation.
 
 ---
 
-## 🏆 Achievements & Highlights
+# 🏆 MILESTONES
+
+```text
+2025
+ │
+ ├── 🥈 ITM Project Showcase Day
+ │       2nd Runner-up
+ │
+ ▼
+2026
+ │
+ ├── 🥇 StartUp InnovateX
+ │       Champion — Nobayon
+ │
+ ├── 🧪 Ratul Labs
+ │       Personal Technology & Research Identity
+ │
+ └── 💻 GitHub Journey
+         Learning → Building → Experimenting
+ │
+ ▼
+FUTURE
+ │
+ ├── 🔬 Technology Research
+ ├── 🤖 AI Exploration
+ ├── 💻 Real-world Projects
+ └── 🚀 Innovation
+```
+
+---
+
+# 🏅 ACHIEVEMENTS
 
 ### 🥈 ITM Project Showcase Day 2025
 
 **2nd Runner-up**
 
-A project showcase achievement from the Department of Information Technology & Management.
+Project showcase achievement from the Department of Information Technology & Management.
 
 ---
 
@@ -135,7 +210,7 @@ A project showcase achievement from the Department of Information Technology & M
 
 **Champion — Nobayon**
 
-A technology-driven sustainability concept developed around a smart refill ecosystem.
+A technology-driven sustainability concept based on a smart refill ecosystem.
 
 ---
 
@@ -143,99 +218,123 @@ A technology-driven sustainability concept developed around a smart refill ecosy
 
 **Information Technology & Management**
 
-Daffodil International University
+**Daffodil International University**
 
 ---
 
-## 🔬 Research & Innovation Interests
+# 🔬 RESEARCH LOG
 
-I'm interested in exploring how technology can be used to solve practical problems in areas such as:
+| ID | Research / Exploration Topic | Status |
+|---|---|---|
+| 🔬 R-001 | Sustainable Refill Systems | 🟢 Exploring |
+| 🔬 R-002 | Artificial Intelligence | 🟡 Learning |
+| 🔬 R-003 | Smart Information Systems | 🟡 Exploring |
+| 🔬 R-004 | Educational Technology | 🟡 Exploring |
+| 🔬 R-005 | IoT Applications | ⚪ Future |
+| 🔬 R-006 | Technology & Social Impact | 🟡 Exploring |
 
-- 🌱 Sustainable Technology
-- 🤖 Artificial Intelligence
-- 📱 Digital Solutions
-- 🗄️ Information Systems
-- 🌐 Networking & Infrastructure
-- 🎓 Educational Technology
-- 🚀 Entrepreneurship & Innovation
-- 📊 Data & Decision Making
-- 🌍 Technology for Social Impact
+> This research log will evolve as I learn, experiment, and build.
 
 ---
 
-## 💡 Ideas I'm Exploring
+# 🧪 CURRENT EXPERIMENT
 
 ```text
-🌱 Sustainable Technology
-          │
-          ▼
-     🤖 Smart Systems
-          │
-          ▼
-     📱 Digital Platforms
-          │
-          ▼
-    📊 Data & Intelligence
-          │
-          ▼
-     🚀 Real-World Impact
+                 GITHUB
+                    │
+                    ▼
+             Learn Version Control
+                    │
+                    ▼
+              Build Repositories
+                    │
+                    ▼
+             Document Projects
+                    │
+                    ▼
+             Share Experiments
+                    │
+                    ▼
+             Build a Portfolio
 ```
+
+**Current focus:** Learning how professional developers use Git and GitHub to build, document, collaborate, and share projects.
+
+---
+
+# 💡 IDEA LAB
+
+<div align="center">
+
+```text
+🌱 SUSTAINABLE TECHNOLOGY
+            │
+            ▼
+       🤖 SMART SYSTEMS
+            │
+            ▼
+     📱 DIGITAL PLATFORMS
+            │
+            ▼
+    📊 DATA & INTELLIGENCE
+            │
+            ▼
+      🚀 REAL-WORLD IMPACT
+```
+
+</div>
 
 I believe technology becomes meaningful when it moves beyond theory and creates useful solutions for real-world problems.
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ratul-labs&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ratul's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ratul-labs&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ratul's GitHub Stats"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-labs&layout=compact&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-labs&layout=compact&hide_border=true" alt="Ratul's Top Languages"/>
 
 </div>
 
 ---
 
-## 📈 My GitHub Journey
+# 📈 CONTRIBUTION JOURNEY
 
-Every contribution represents another step in my journey from **learning → building → improving**.
+> **Every contribution is a small record of learning, experimentation, and progress.**
+
+<div align="center">
 
 ```text
-2026
-│
-├── 🧪 Started Ratul Labs
-│
-├── 📚 Learning Git & GitHub
-│
-├── 💻 Building Projects
-│
-├── 🔬 Exploring Research
-│
-└── 🚀 Preparing for Bigger Ideas
+       🧪 EXPERIMENT
+             │
+             ▼
+       💻 CONTRIBUTE
+             │
+             ▼
+        📚 LEARN
+             │
+             ▼
+       📈 IMPROVE
+             │
+             ▼
+        🚀 BUILD
 ```
 
----
+</div>
 
-## 🎯 My Vision
-
-### **Learn → Build → Experiment → Improve → Innovate**
-
-My goal is to continuously develop my technical knowledge, explore emerging technologies, conduct meaningful research, and build practical solutions for real-world problems.
-
-I want to grow into a technology professional who combines:
-
-**Technology + Management + Research + Innovation**
+My GitHub activity will grow naturally as I continue building real projects and documenting my learning journey.
 
 ---
 
-## 🌍 Beyond Code
+# 🌍 BEYOND CODE
 
 Technology is not only about writing code.
 
-For me, it is also about:
+For me, technology is also about:
 
 > **Understanding problems.**
 
@@ -249,7 +348,9 @@ For me, it is also about:
 
 ---
 
-## 🧩 What I Believe
+# 🧩 WHAT I BELIEVE
+
+<div align="center">
 
 ```text
 Ideas are everywhere.
@@ -262,51 +363,88 @@ Technology creates tools.
 Innovation creates impact.
 ```
 
----
-
-## 📚 Learning Philosophy
-
-> **Stay curious.**
->
-> **Keep learning.**
->
-> **Build something.**
->
-> **Make mistakes.**
->
-> **Learn from them.**
->
-> **Build again.**
+</div>
 
 ---
 
-## 🚀 Future Goals
-
-- 🔬 Conduct meaningful technology research
-- 💻 Build practical software solutions
-- 🤖 Explore Artificial Intelligence
-- 🌐 Develop strong IT infrastructure knowledge
-- 🗄️ Strengthen database and information-system skills
-- 🌱 Work on sustainable technology ideas
-- 🚀 Turn innovative ideas into real projects
-- 🤝 Collaborate with people who love technology
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in:
-
-🤝 Collaboration  
-💡 New Ideas  
-🔬 Research  
-🚀 Innovation  
-💻 Technology  
-🌱 Sustainable Solutions
-
-<br>
+# 📚 LEARNING PHILOSOPHY
 
 <div align="center">
+
+### Stay Curious
+### Keep Learning
+### Build Something
+### Make Mistakes
+### Learn From Them
+### Build Again
+
+</div>
+
+---
+
+# 🎯 MY VISION
+
+<div align="center">
+
+## **LEARN → BUILD → EXPERIMENT → IMPROVE → INNOVATE**
+
+</div>
+
+My long-term goal is to develop strong technical knowledge, explore emerging technologies, conduct meaningful research, and build practical solutions for real-world problems.
+
+I want to grow into a technology professional who combines:
+
+**Technology + Management + Research + Innovation**
+
+---
+
+# 🚀 FUTURE ROADMAP
+
+```text
+NOW
+ │
+ ├── 📚 Strengthen IT Foundations
+ ├── 💻 Learn Programming
+ ├── 🗄️ Improve Database Skills
+ └── 🔧 Master Git & GitHub
+ │
+ ▼
+NEXT
+ │
+ ├── 🤖 Explore AI
+ ├── 🌐 Build Software Projects
+ ├── 🔬 Conduct Technology Research
+ └── 📊 Work With Data
+ │
+ ▼
+FUTURE
+ │
+ ├── 🚀 Build Real-World Solutions
+ ├── 🌱 Develop Sustainable Technology
+ ├── 🔬 Publish / Share Research
+ └── 💡 Turn Ideas Into Innovation
+```
+
+---
+
+# 📫 LET'S CONNECT
+
+<div align="center">
+
+🤝 **Collaboration**  
+💡 **New Ideas**  
+🔬 **Research**  
+🚀 **Innovation**  
+💻 **Technology**  
+🌱 **Sustainable Solutions**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=140&section=footer&text=RATUL%20LABS&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
 ### 🧪 RATUL LABS
 
@@ -314,15 +452,9 @@ I'm always interested in:
 
 *Where ideas become experiments.*
 
-<br>
-
 **Learn something. Build something. Make something better.**
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 ⭐ **Thanks for visiting Ratul Labs!**
 
